@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="49d8c8a7-f99a-4b96-97d5-7e521970728d" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/src/MerhabaTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MerhabaTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,7 +29,9 @@
     <option name="version" value="2" />
   </component>
   <component name="ProjectId" id="2NHDYl5nj1uDNjC7hzPMGLY61lu" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="showExcludedFiles" value="false" />
     <option name="showLibraryContents" value="true" />
@@ -46,7 +48,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;reference.settingsdialog.IDE.editor.colors&quot;
   }
 }</component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.Statement">
     <configuration default="true" type="AZURE_FUNCTION_SUPPORT" factoryName="Run Functions">
       <option name="appName" />
       <option name="appServicePlanName" />
@@ -86,8 +88,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Statement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Statement" />
+      <module name="Java-class_obje" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Statement" />
         <item itemvalue="Application.MerhabaTest" />
       </list>
     </recent_temporary>
